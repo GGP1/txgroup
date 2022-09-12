@@ -1,5 +1,5 @@
 // Package txgroup provides a simple way of handling multiple transactions as if they were
-// one single block, taking care of their progration, cancelation and perpetration.
+// a single one, helping to propagate, cancel and execute them.
 package txgroup
 
 import (
